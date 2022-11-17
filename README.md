@@ -14,7 +14,7 @@ The input data needed to generate the features are the same distributed by the c
  - train images
  - test images
  
-Running notebooks `kddbr22 Img Shift.ipynb` and `kddbr20 FLANN based Matcher.ipynb` will output the following files:
+Running notebooks `kddbr22 Img Shift.ipynb` and `kddbr20-flann-based-matcher.ipynb` will output the following files:
 
  - `mario_train_vec_v1.csv`
  - `mario_train_vec_v1.csv`
